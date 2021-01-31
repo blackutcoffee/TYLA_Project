@@ -1,0 +1,91 @@
+1) Facts that establish the credibility/qualifications of the witness
+2) Background/foundational facts that show how your witness knows what he/she knows
+3) Facts that help demonstrate your theory and theme of the case. Focus on what really
+matters. You do not have to address every possible point that might help your side.
+
+4) Harmful facts that will be brought out in cross examination by the opposing side (gives
+you the first chance to address it before the other side harps on it)
+5) For expert witnesses, see the foundation that must be established under Federal Rule of
+Evidence 702.
+6) Typically organized chronologically for non-expert witnesses.
+7) For experts, typical organization is: 
+	(1) Qualifications/background; 
+	(2) How got involved
+with case, what evidence examined; 
+	(3) What methods used; 
+	(4) What opinions reached;
+	(5) Explanation of each opinion (often with a visual aid of some kind).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+or create a new repository on the command line
+echo "# jest-another-RPG" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:blackutcoffee/jest-another-RPG.git
+git push -u origin main
+                
+…or push an existing repository from the command line
+git remote add origin git@github.com:blackutcoffee/jest-another-RPG.git
+git branch -M main
+git push -u origin main
+git push --force origin main
+
+
+git status
+git remote -v
+git push --set-upstream origin master
+
+
+rm -f .git/index.lock
+
+GOD 1ST 🙏🏾 1 YHWH Resolution✡︎: 
+Never do anything I be not afraid to do 
+if it were my last hour, my prenup. 
+we ARE ALL GODS CHILDREN ITS WHO YOU CHOOSE TO WORSHIP IN SPIRIT AND TRUTH
+THAT EITHER MAKES YOU A CHILD OF YHWH OR SAtGRE LSATMCAT
+the marriage supper of the Lamb 📚 of Life
+“always tell the truth—you’ll have less to remember.” 
+Gemini And/or INTJan26 We the People of the #USA #oneteamonefight 
+I Ain't Having No More Kids Right Now Fam! Doing Everything For Eternity! Only Kill Fa Fam Fam
+

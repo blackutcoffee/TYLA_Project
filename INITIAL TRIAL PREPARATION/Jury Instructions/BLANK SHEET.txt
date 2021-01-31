@@ -1,0 +1,79 @@
+
+e-Discovery final version of the jury instructions (if stipulated),
+
+
+“preponderance of the evidence” in a civil case. The judge may read sections of applicable laws.
+
+The judge will advise the jury that it is the sole judge of the facts and of the credibility (believability) of witnesses. He or she will note that the jurors are to base their conclusions on the evidence as presented in the trial, and that the opening and closing arguments of the lawyers are not evidence. Sometimes judges will explain what basic facts are in dispute, and what facts do not matter to the case.
+
+The judge will point out that his or her instructions contain the interpretation of the relevant laws that govern the case, and that jurors are required to adhere to these laws in making their decision
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+or create a new repository on the command line
+echo "# jest-another-RPG" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:blackutcoffee/jest-another-RPG.git
+git push -u origin main
+                
+…or push an existing repository from the command line
+git remote add origin git@github.com:blackutcoffee/jest-another-RPG.git
+git branch -M main
+git push -u origin main
+git push --force origin main
+
+
+git status
+git remote -v
+git push --set-upstream origin master
+
+
+rm -f .git/index.lock
+
+GOD 1ST 🙏🏾 1 YHWH Resolution✡︎: 
+Never do anything I be not afraid to do 
+if it were my last hour, my prenup. 
+we ARE ALL GODS CHILDREN ITS WHO YOU CHOOSE TO WORSHIP IN SPIRIT AND TRUTH
+THAT EITHER MAKES YOU A CHILD OF YHWH OR SAtGRE LSATMCAT
+the marriage supper of the Lamb 📚 of Life
+“always tell the truth—you’ll have less to remember.” 
+Gemini And/or INTJan26 We the People of the #USA #oneteamonefight 
+I Ain't Having No More Kids Right Now Fam! Doing Everything For Eternity! Only Kill Fa Fam Fam
+

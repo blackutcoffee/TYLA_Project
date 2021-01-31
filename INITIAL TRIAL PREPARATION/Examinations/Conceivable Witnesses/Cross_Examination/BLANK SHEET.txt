@@ -1,0 +1,88 @@
+*Only ask leading questions, not open-ended questions. The question should be
+worded so that the only possible answer is “yes” or “no.”
+
+
+Eliciting Witness Cross Examination Responses:
+1) Facts that help prove your theory
+2) Facts that paint your client in a good light
+3) Facts that show why the witness (or another witness from the other side) is not credible
+4) When crossing experts, you can include facts indicating:
+	a. Lack of qualifications
+	b. Unreliability of methods used
+	c. Insufficiency of evidence / lack of investigating important areas
+	d. Limitations of experts’ conclusions
+5) Always think big picture and think about your theory. You do not want to waste time
+asking questions on areas that do not matter very much to proving your case.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+or create a new repository on the command line
+echo "# jest-another-RPG" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:blackutcoffee/jest-another-RPG.git
+git push -u origin main
+                
+…or push an existing repository from the command line
+git remote add origin git@github.com:blackutcoffee/jest-another-RPG.git
+git branch -M main
+git push -u origin main
+git push --force origin main
+
+
+git status
+git remote -v
+git push --set-upstream origin master
+
+
+rm -f .git/index.lock
+
+GOD 1ST 🙏🏾 1 YHWH Resolution✡︎: 
+Never do anything I be not afraid to do 
+if it were my last hour, my prenup. 
+we ARE ALL GODS CHILDREN ITS WHO YOU CHOOSE TO WORSHIP IN SPIRIT AND TRUTH
+THAT EITHER MAKES YOU A CHILD OF YHWH OR SAtGRE LSATMCAT
+the marriage supper of the Lamb 📚 of Life
+“always tell the truth—you’ll have less to remember.” 
+Gemini And/or INTJan26 We the People of the #USA #oneteamonefight 
+I Ain't Having No More Kids Right Now Fam! Doing Everything For Eternity! Only Kill Fa Fam Fam
+

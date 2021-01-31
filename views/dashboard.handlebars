@@ -1,0 +1,14 @@
+{{#if meals.length}}
+<section>
+  <h2>Your Meals</h2>
+  <ul>
+    {{#each meals as |meal|}}
+    <li>
+      {{> meal-info meal}}
+    </li>
+    {{/each}}
+  </ul>
+</section>
+{{/if}}
+
+<script src="/javascript/add-post.js"></script>

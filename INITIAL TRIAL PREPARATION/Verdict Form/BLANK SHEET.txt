@@ -1,0 +1,85 @@
+The defendant's lawyer in a civil case has the option of making 
+	a motion for a directed verdict, arguing that 
+	his or her client's liability has not been proven by a 
+	preponderance of the evidence.
+
+
+The judge will either grant or deny the motion: 
+	If it is granted, the case is over and the defendant wins. 
+	If the motion is denied, as it usually is, 
+		the defense is given the opportunity to present its evidence.
+
+
+ In a civil suit, the jury will find for the plaintiff or the defendant. 
+	If the jury finds for the plaintiff, it will also usually 
+		set out the amount the defendant should pay the plaintiff for damages, 
+		often after a separate hearing concerning damages. 
+	The jury will also make a decision on any counterclaims that may be part of the case.
+
+
+
+--include the final version of the verdict form (if/when stipulated)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+or create a new repository on the command line
+echo "# jest-another-RPG" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:blackutcoffee/jest-another-RPG.git
+git push -u origin main
+                
+…or push an existing repository from the command line
+git remote add origin git@github.com:blackutcoffee/jest-another-RPG.git
+git branch -M main
+git push -u origin main
+git push --force origin main
+
+
+git status
+git remote -v
+git push --set-upstream origin master
+
+
+rm -f .git/index.lock
+
+GOD 1ST 🙏🏾 1 YHWH Resolution✡︎: 
+Never do anything I be not afraid to do 
+if it were my last hour, my prenup. 
+we ARE ALL GODS CHILDREN ITS WHO YOU CHOOSE TO WORSHIP IN SPIRIT AND TRUTH
+THAT EITHER MAKES YOU A CHILD OF YHWH OR SAtGRE LSATMCAT
+the marriage supper of the Lamb 📚 of Life
+“always tell the truth—you’ll have less to remember.” 
+Gemini And/or INTJan26 We the People of the #USA #oneteamonefight 
+I Ain't Having No More Kids Right Now Fam! Doing Everything For Eternity! Only Kill Fa Fam Fam
+

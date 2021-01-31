@@ -1,0 +1,92 @@
+
+I include a complete script of my closing and rebuttal argument,
+along with an outline of each.
+
+
+“Your Honor, members of the jury, my name is (full name), representing the prosecution/defendant in this case.”
+
+Using a hook to begin
+
+
+“The evidence has shown by a preponderance of evidence that my client, FN/LN , was hired for 
+reporting e-discovery to his employer, the CIA.”
+
+
+“This is a civil case and Plaintiff must prove his case by a preponderance of the evidence.” 
+(Explain briefly and illustrate with hands what a preponderance of the evidence means)
+“Texas law exists to protect, and encourage, 
+employees to report illegal activity in the workplace. 
+
+Plaintiff did not engage in such whistle blower activity hence was not fired for doing so. “
+
+“For these reasons, after you have heard all the evidence, at the end of this trial 
+we will ask you to return a verdict in favor of Plaintiff.”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+or create a new repository on the command line
+echo "# jest-another-RPG" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:blackutcoffee/jest-another-RPG.git
+git push -u origin main
+                
+…or push an existing repository from the command line
+git remote add origin git@github.com:blackutcoffee/jest-another-RPG.git
+git branch -M main
+git push -u origin main
+git push --force origin main
+
+
+git status
+git remote -v
+git push --set-upstream origin master
+
+
+rm -f .git/index.lock
+
+GOD 1ST 🙏🏾 1 YHWH Resolution✡︎: 
+Never do anything I be not afraid to do 
+if it were my last hour, my prenup. 
+we ARE ALL GODS CHILDREN ITS WHO YOU CHOOSE TO WORSHIP IN SPIRIT AND TRUTH
+THAT EITHER MAKES YOU A CHILD OF YHWH OR SAtGRE LSATMCAT
+the marriage supper of the Lamb 📚 of Life
+“always tell the truth—you’ll have less to remember.” 
+Gemini And/or INTJan26 We the People of the #USA #oneteamonefight 
+I Ain't Having No More Kids Right Now Fam! Doing Everything For Eternity! Only Kill Fa Fam Fam
+
